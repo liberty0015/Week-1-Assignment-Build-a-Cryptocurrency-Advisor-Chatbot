@@ -40,8 +40,7 @@ This chatbot was created as part of a learning assignment to:
 
 1. **Clone this repository** or download the files:
    ```bash
-   git clone https://github.com/your-username/crypto-chatbot.git
-   cd crypto-chatbot
+   git clone https://github.com/liberty0015/Week-1-Assignment-Build-a-Cryptocurrency-Advisor-Chatbot.git.
 2. Open chatbot.py in any Python environment (Google Colab, Jupyter Notebook, VS Code, etc.)
 
 3. Run the script and interact with CryptoBuddy by typing your questions.

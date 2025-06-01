@@ -46,7 +46,8 @@ This chatbot was created as part of a learning assignment to:
 3. Run the script and interact with CryptoBuddy by typing your questions.
 
 🖼️ Screenshots
-Below is a sample conversation with CryptoBuddy:
+Below is a sample conversation with CryptoBuddy
+(./screenshot1.png)
 
 Chat Example
 
@@ -56,15 +57,7 @@ A short 30-second video demo of the chatbot in action is included in the project
 📄 Summary
 This chatbot mimics basic AI decision-making by using simple if-else rules to respond to user queries. It analyzes structured data and gives smart advice based on predefined logic, similar to how a beginner AI system would reason using available information.
 
-⚠️ Disclaimer: This bot is for educational purposes only. Cryptocurrency is volatile—always do your own research before investing.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to personalize it with your GitHub link or project screenshots!
+⚠️ Disclaimer: This bot is for educational purposes only. Cryptocurrency is volatile—always do your own research before ingesting.
 
 
 
